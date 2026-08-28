@@ -1,24 +1,28 @@
 Hi, I'm Isaac 👋
 
-IT Systems Engineer in the Seattle/Tacoma area, specializing in macOS fleet management and identity & access management at enterprise scale.
+IT Systems Engineer in the Seattle/Tacoma area with 8+ years in enterprise IT, specializing in macOS fleet management and identity & access management at scale.
 
 
 I design and run Apple device fleets and the identity infrastructure behind them. Highlights of my IT roles:
 
-* 🖥️ Managed 2,800+ macOS endpoints with Jamf Pro in a global enterprise environment
+* 🖥️ Managed macOS fleets from 300 to 2,800+ endpoints with Jamf Pro and Intune in global enterprise environments
 * 🔐 Drove endpoint compliance from 82% → 98% through automated remediation and smart group engineering
-* ⚡ Cut user provisioning time by 80% with Okta lifecycle automation (joiner,mover,leaver)
-* 🛡️ Maintained zero audit findings on a Federal/DoD Microsoft Entra tenant
+* 🔑 Engineered a phased Platform SSO rollout (Microsoft Entra ID + Okta) across a Mac fleet, with custom tooling that catches silent enrollment failures
+* ⚡ Cut onboarding and provisioning time by 80% with Jamf workflow automation and Okta lifecycle management (joiner / mover / leaver)
+* 🛡️ Maintained zero audit findings on a Federal/DoD Microsoft Entra tenant and full 14-day patching SLAs under UK Cyber Essentials
+* 🤖 Run my organization's AI tool-approval program, governing GitHub Copilot and Claude Code adoption
 
 ## Toolbox
 
-MDM & Endpoint: Jamf Pro · Microsoft Intune · Apple Business · macOS security baselines
+MDM & Endpoint: Jamf Pro · Platform SSO · Microsoft Intune · Apple Business Manager · macOS security baselines
 
-Identity: Okta (Certified Professional) · Microsoft Entra ID · Conditional Access · SCIM/SSO
+Identity: Okta (Certified Professional) · Microsoft Entra ID · Conditional Access · SCIM/SSO · Active Directory
 
-Automation: Bash · Python · Jamf API · Jira · Atlassian · ServiceNow
+Cloud & Automation: AWS · Azure · Python · Bash · PowerShell · Docker · Jamf API
 
-Certs: Jamf Certified Tech · Okta Certified Professional · Jamf Certified Associate · Azure Administrator · AWS Developer / Architect / SysOps Administrator · CompTIA Security+ / Network+ / A+
+ITSM & Collaboration: Jira · Confluence · ServiceNow · Microsoft 365 · Zoom & Teams Admin
+
+Certs: Jamf Certified Tech / Certified Associate / Protect Associate · Okta Certified Professional · AWS Solutions Architect / Developer / SysOps Administrator (Associate) · Azure Administrator (AZ-104) · CompTIA Security+ / PenTest+ / Cloud+ / Network+ / A+
 
 ---
 
