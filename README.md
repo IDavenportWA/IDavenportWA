@@ -16,7 +16,7 @@ I design and run Apple device fleets and the identity infrastructure behind them
 
 MDM & Endpoint: Jamf Pro · Platform SSO · Microsoft Intune · Apple Business Manager · macOS security baselines
 
-Identity: Okta (Certified Professional) · Microsoft Entra ID · Conditional Access · SCIM/SSO · Active Directory
+Identity: Okta (Certified Professional) · Microsoft Entra ID · Conditional Access · SSO · SCIM provisioning (app-level: Adobe, Expensify, HRIS) · Active Directory
 
 Cloud & Automation: AWS · Azure · Python · Bash · PowerShell · Docker · Jamf API
 
